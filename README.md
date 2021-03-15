@@ -19,15 +19,15 @@ This Gamemode using Y_INI For saving system
 MODE:
 
 - Desert Eagle Only
-- 
+
 - Sniper Only
-- 
+
 - Sawn Off only
-- 
+
 - Team War: Suzuran, Vagos, Cops, Grove Street
-- 
+
 - Counter Strike map
-- 
+
 - Point Blank (Luxville)
 
 - Deathmatch
