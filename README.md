@@ -13,13 +13,13 @@ This Gamemode using Y_INI For saving system
 '/specialskin' For Specialskins
 
 MODE:
- Desert Eagle Only
- Sniper Only
- Sawn Off only
- Team War: Suzuran, Vagos, Cops, Grove Street
- Counter Strike map
- Point Blank (Luxville)
- Deathmatch
+Desert Eagle Only
+Sniper Only
+Sawn Off only
+Team War: Suzuran, Vagos, Cops, Grove Street
+Counter Strike map
+Point Blank (Luxville)
+Deathmatch
 
 '/gl' Global Chats
 
